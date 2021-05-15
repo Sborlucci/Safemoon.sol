@@ -18,6 +18,8 @@
    I created a black hole so #Bee token will deflate itself in supply with every transaction
    50% Supply is burned at start.
    
+   #SBRLC Sborlucci additional features coming.
+   
 
  */
 
